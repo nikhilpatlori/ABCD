@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-04T15:25:11 CEST" name="Default suite" finished-at="2022-08-04T15:25:16 CEST" duration-ms="5337">
+  <suite started-at="2022-08-04T16:53:32 CEST" name="Suite" finished-at="2022-08-04T16:53:41 CEST" duration-ms="9028">
     <groups>
     </groups>
-    <test started-at="2022-08-04T15:25:11 CEST" name="Default test" finished-at="2022-08-04T15:25:16 CEST" duration-ms="5337">
+    <test started-at="2022-08-04T16:53:32 CEST" name="Test" finished-at="2022-08-04T16:53:41 CEST" duration-ms="9028">
       <class name="basicTest.PrintProgram">
-        <test-method signature="print()[pri:0, instance:basicTest.PrintProgram@791f145a]" started-at="2022-08-04T15:25:11 CEST" name="print" finished-at="2022-08-04T15:25:11 CEST" duration-ms="17" status="PASS">
+        <test-method signature="print()[pri:0, instance:basicTest.PrintProgram@791f145a]" started-at="2022-08-04T16:53:32 CEST" name="print" finished-at="2022-08-04T16:53:32 CEST" duration-ms="74" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- print -->
-        <test-method signature="selbrowlaunch()[pri:0, instance:basicTest.PrintProgram@791f145a]" started-at="2022-08-04T15:25:11 CEST" name="selbrowlaunch" finished-at="2022-08-04T15:25:16 CEST" duration-ms="5203" status="PASS">
+        <test-method signature="selbrowlaunch()[pri:0, instance:basicTest.PrintProgram@791f145a]" started-at="2022-08-04T16:53:32 CEST" name="selbrowlaunch" finished-at="2022-08-04T16:53:41 CEST" duration-ms="8387" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selbrowlaunch -->
       </class> <!-- basicTest.PrintProgram -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
